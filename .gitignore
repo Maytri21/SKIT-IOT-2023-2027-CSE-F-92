@@ -48,7 +48,6 @@ cleaned_brain_mri_dataset/
 *.zip
 
 # Trained model - large binary file
-models/*.keras
 models/*.h5
 
 # Ignore generated results, but allow documentation separately
