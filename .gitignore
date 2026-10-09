@@ -1,5 +1,5 @@
 
-# Python environments
+# Virtual environments
 venv/
 .venv/
 .venv_tf/
@@ -12,14 +12,68 @@ __pycache__/
 .env
 .streamlit/secrets.toml
 
-# Large datasets and archives
-Training/
-Testing/
+# Dataset - do not upload
 cleaned_brain_mri_dataset/
 *.zip
 
-# Generated models and training results
+# Generated model weights
 models/*.keras
 models/*.h5
+
+# Ignore large/raw datasets
+Training/
+Testing/
+cleaned_brain_mri_dataset/
+
+# Keep evaluation reports and plots in Git
+
+# Ignore generated results, but allow documentation separately
 results/
 
+# Virtual environments
+venv/
+.venv/
+.venv_tf/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Dataset - do not upload
+cleaned_brain_mri_dataset/
+*.zip
+
+# Trained model - large binary file
+models/*.keras
+models/*.h5
+
+# Ignore generated results, but allow documentation separately
+results/
+
+# Virtual environments
+venv/
+.venv/
+.venv_tf/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Dataset - do not upload
+cleaned_brain_mri_dataset/
+*.zip
+
+# Trained model - large binary file
+models/*.keras
+models/*.h5
+
+# Ignore generated results, but allow documentation separately
+results/
