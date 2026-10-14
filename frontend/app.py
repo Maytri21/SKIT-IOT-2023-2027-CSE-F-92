@@ -1,4 +1,3 @@
-
 """Brain MRI Classification: Streamlit frontend for a student CNN project."""
 
 import hashlib
@@ -24,84 +23,56 @@ endpoint = os.environ.get(
     "http://127.0.0.1:5000/predict",
 ).strip()
 
-st.html("""
-<style>
-.stMainBlockContainer {
-    max-width: 1200px;
-    padding-top: 2.5rem;
-}
-h1 {
-    letter-spacing: -1.7px;
-    font-weight: 750 !important;
-}
-h2, h3 {
-    letter-spacing: -.5px;
-}
-[data-testid="stSidebar"] {
-    border-right: 1px solid #DFE8ED;
-}
-[data-testid="stMetricValue"] {
-    color: #087F8C;
-}
-.eyebrow {
-    color: #087F8C;
-    font-size: 12px;
-    font-weight: 700;
-    letter-spacing: 2px;
-    margin-bottom: 12px;
-}
-.hero-copy {
-    font-size: 17px;
-    color: #607582;
-    max-width: 630px;
-    line-height: 1.6;
-    margin-bottom: 28px;
-}
-.brand {
-    font-size: 26px;
-    font-weight: 750;
-    letter-spacing: -1px;
-    margin-bottom: 0;
-}
-.brand-sub {
-    color: #607582;
-    font-size: 12px;
-    margin-bottom: 36px;
-}
-.empty {
-    border: 1px dashed #CCDCE3;
-    border-radius: 14px;
-    background: #F8FBFC;
-    padding: 46px 20px;
-    text-align: center;
-    color: #607582;
-}
-.empty strong {
-    display: block;
-    font-size: 18px;
-    color: #172D3A;
-    margin-bottom: 10px;
-}
-.foot {
-    font-size: 12px;
-    color: #607582;
-    margin-top: 24px;
-}
-</style>
-""")
+st.html("""<style>
+.stMainBlockContainer {max-width:1240px;padding:2rem 2.5rem 3rem;}
+h1 {letter-spacing:-1.6px;font-weight:750!important;}
+h2,h3 {letter-spacing:-.6px;}
+[data-testid="stSidebar"] {border-right:1px solid #233D50;}
+[data-testid="stSidebar"] [data-testid="stRadio"] label {padding:8px 2px;}
+[data-testid="stSidebar"] hr {border-color:#2B4355;}
+[data-testid="stMetricValue"] {color:#087F8C;font-weight:700;}
+[data-testid="stVerticalBlockBorderWrapper"]>div {border-radius:20px!important;}
+[data-testid="stFileUploaderDropzone"] {border:1.5px dashed #A6C8D0;border-radius:14px;padding:24px 16px;}
+.stButton button,.stDownloadButton button {min-height:46px;border-radius:10px;font-weight:600;}
+.stButton button[kind="primary"] {box-shadow:0 6px 18px #087F8C22;}
+button:focus-visible,a:focus-visible {outline:3px solid #29B8C7!important;outline-offset:3px;}
+.eyebrow {color:#087F8C;font-size:11px;font-weight:750;letter-spacing:2px;margin-bottom:12px;}
+.brand {color:#F5FBFF;font-size:28px;font-weight:750;letter-spacing:-1px;margin-bottom:6px;}
+.brand span {background:#26B7BD;color:#102A3C;border-radius:10px;padding:1px 8px;margin-right:7px;}
+.brand-sub {color:#A4BDC9;font-size:10px;font-weight:600;letter-spacing:1.5px;margin-bottom:30px;}
+.hero {position:relative;overflow:hidden;background:linear-gradient(115deg,#112D42,#164D60);border:1px solid #285B6A;border-radius:24px;padding:34px 38px;margin-bottom:20px;}
+.hero .eyebrow {color:#82DEE0;}
+.hero h1 {color:#F5FBFF;font-size:clamp(30px,3.4vw,46px);line-height:1.15;margin:0 0 16px;max-width:650px;}
+.hero p {color:#C4D9E3;font-size:16px;max-width:590px;line-height:1.65;margin:0;}
+.hero-tag {display:inline-block;color:#B4EEF0;border:1px solid #4C7C8A;border-radius:30px;padding:6px 12px;font-size:11px;margin-top:22px;letter-spacing:.4px;}
+.hero-art {position:absolute;right:36px;top:35px;width:155px;height:155px;opacity:.5;}
+.steps {display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin:6px 0 22px;}
+.step {display:flex;align-items:center;gap:12px;background:#FFFFFF;border:1px solid #DBE6EC;border-radius:14px;padding:16px;}
+.step-number {background:#E7F4F4;color:#087F8C;font-size:13px;font-weight:750;border-radius:10px;padding:9px 12px;}
+.step strong {display:block;color:#173448;font-size:13px;}
+.step small {display:block;color:#5B7180;font-size:11px;margin-top:3px;}
+.empty {border:1px dashed #BDD1DC;border-radius:16px;background:linear-gradient(145deg,#F8FBFD,#EDF5F7);padding:38px 20px;text-align:center;color:#5B7180;line-height:1.6;}
+.empty strong {display:block;font-size:17px;color:#173448;margin-bottom:8px;}
+.empty-icon {display:grid;place-items:center;margin:0 auto 17px;width:54px;height:54px;border-radius:16px;background:#DFF0F2;color:#087F8C;font-size:25px;}
+.empty small {display:block;font-size:12px;margin-top:12px;}
+.panel-label {color:#087F8C;font-size:10px;font-weight:750;letter-spacing:1.8px;margin:5px 0 2px;}
+.foot {font-size:11px;color:#5B7180;border-top:1px solid #DBE6EC;padding-top:18px;margin-top:30px;display:flex;justify-content:space-between;gap:16px;}
+@media(max-width:900px) {.hero-art {display:none;} .stMainBlockContainer {padding:1.5rem;} .hero {padding:26px;} }
+@media(max-width:600px) {.steps {grid-template-columns:1fr;} .step {padding:12px;} .foot {flex-direction:column;} }
+</style>""")
 
 CLASS_DESCRIPTIONS = {
-    "glioma": "Model-predicted class: Glioma",
-    "meningioma": "Model-predicted class: Meningioma",
-    "notumor": "Model-predicted class: No Tumor",
-    "pituitary": "Model-predicted class: Pituitary",
+    "glioma": "Glioma",
+    "meningioma": "Meningioma",
+    "notumor": "No tumor",
+    "pituitary": "Pituitary",
 }
 
 
 with st.sidebar:
     st.html(
-        '<p class="brand">🧠 Brain MRI</p>'
-        '<p class="brand-sub">MEDICAL IMAGING · STUDENT PROJECT</p>'
+        '<p class="brand"><span>+</span> Brain MRI</p>'
+        '<p class="brand-sub">MEDICAL IMAGING WORKSPACE</p>'
     )
 
     page = st.radio(
@@ -111,19 +82,23 @@ with st.sidebar:
 
     st.divider()
     st.caption("PREDICTION CONNECTION")
-    st.code(endpoint, language=None)
+    st.badge("API configured", icon=":material/link:", color="primary")
+    with st.expander("Connection details"):
+        st.code(endpoint, language=None)
     st.caption(
         "Predictions are sent to the configured Flask API. "
         "No simulated predictions are used."
     )
 
     st.divider()
-    st.caption(
-        "AI/ML · Model training\n\n"
-        "Maytri · Backend integration\n\n"
-        "Data & Testing · Evaluation\n\n"
-        "UI/Frontend · Streamlit"
-    )
+    with st.expander("Meet the project team"):
+        st.caption(
+            "AI/ML · Model training\n\n"
+            "Maytri · Backend integration\n\n"
+            "Data & Testing · Evaluation\n\n"
+            "UI/Frontend · Streamlit"
+        )
+
 
 st.session_state.setdefault("history", [])
 
@@ -168,21 +143,30 @@ def decode_image(data):
 
 
 if page == "Analyze MRI":
-    st.html(
-        '<div class="eyebrow">IMAGE CLASSIFICATION WORKSPACE</div>'
-    )
-    st.title("Brain MRI Classification")
-    st.html(
-        '<div class="hero-copy">'
-        "Upload a brain MRI image, review it, and inspect the "
-        "prediction returned by your trained four-class CNN."
-        "</div>"
-    )
+    st.html("""<section class="hero" aria-label="Brain MRI classification">
+        <div class="eyebrow">BRAIN MRI CLASSIFICATION</div>
+        <h1>A clearer view.<br>A simpler workflow.</h1>
+        <p>Upload a brain MRI and explore your CNN’s classification.<br>
+        From image preview to results, everything in one place.</p>
+        <span class="hero-tag">CNN RESEARCH PROJECT · FOUR-CLASS CLASSIFICATION</span>
+        <svg class="hero-art" aria-hidden="true" viewBox="0 0 180 180" fill="none">
+        <rect x="5" y="5" width="170" height="170" rx="32" stroke="#7AD9DE"/>
+        <circle cx="90" cy="90" r="65" stroke="#7AD9DE" stroke-dasharray="4 8"/>
+        <path d="M90 50C72 35 56 46 57 61C35 64 32 89 45 101C31 121 51 141 68 134C75 150 90 143 90 128V50ZM90 50C108 35 124 46 123 61C145 64 148 89 135 101C149 121 129 141 112 134C105 150 90 143 90 128" stroke="#A2EEF0" stroke-width="4" stroke-linecap="round"/>
+        <path d="M57 61C71 59 77 70 70 81M45 101C63 96 72 107 65 120M90 89C73 89 77 102 82 107M123 61C109 59 103 70 110 81M135 101C117 96 108 107 115 120M90 89C107 89 103 102 98 107" stroke="#7AD9DE" stroke-width="3" stroke-linecap="round"/>
+        </svg></section>
+        <div class="steps" aria-label="Analysis steps">
+        <div class="step"><span class="step-number">01</span><div><strong>Upload an MRI</strong><small>Choose a JPEG or PNG</small></div></div>
+        <div class="step"><span class="step-number">02</span><div><strong>Review & classify</strong><small>Check the preview, then run</small></div></div>
+        <div class="step"><span class="step-number">03</span><div><strong>Explore the result</strong><small>View class scores and export</small></div></div>
+        </div>""")
+    st.caption("Educational research prototype. Model predictions are not a medical diagnosis.")
 
     left, right = st.columns([1.1, 1], gap="large")
 
     with left, st.container(border=True):
-        st.subheader("01 / Upload & review")
+        st.html('<div class="panel-label">YOUR IMAGE</div>')
+        st.subheader("Upload & review")
         st.caption(
             "Upload a de-identified brain MRI image. "
             "JPEG and PNG are supported; DICOM is not supported."
@@ -224,8 +208,10 @@ if page == "Analyze MRI":
         else:
             st.html(
                 '<div class="empty">'
-                '<strong>Your MRI preview appears here</strong>'
-                "JPEG or PNG · up to 10 MB"
+                '<span class="empty-icon" aria-hidden="true">▧</span>'
+                '<strong>Start with a brain MRI</strong>'
+                'Your image preview will appear here.'
+                '<small>JPEG or PNG · Maximum 10 MB</small>' 
                 "</div>"
             )
 
@@ -236,7 +222,7 @@ if page == "Analyze MRI":
 
         run = st.button(
             "Classify MRI",
-            icon="🔍",
+            icon=":material/search:",
             type="primary",
             width="stretch",
             disabled=preview is None,
@@ -285,14 +271,15 @@ if page == "Analyze MRI":
                 st.error(str(exc))
 
     with right, st.container(border=True):
-        st.subheader("02 / Classification result")
+        st.html('<div class="panel-label">ANALYSIS OUTPUT</div>')
+        st.subheader("Your result")
         result = st.session_state.get("result")
 
         if result:
             label = result["label"]
             confidence = result["confidence"]
 
-            st.badge("CNN MODEL OUTPUT", icon="📊")
+            st.badge("CNN model output", icon=":material/analytics:", color="primary")
 
             st.metric(
                 "Predicted class",
@@ -344,8 +331,10 @@ if page == "Analyze MRI":
         else:
             st.html(
                 '<div class="empty">'
-                '<strong>Ready when you are</strong>'
-                "Upload an image and classify it to see the model output."
+                '<span class="empty-icon" aria-hidden="true">◎</span>'
+                '<strong>Ready for your first classification</strong>'
+                'Upload an image, review the preview, then select Classify MRI.'
+                '<small>Your predicted class and confidence will appear here.</small>' 
                 "</div>"
             )
 
@@ -449,6 +438,7 @@ else:
 
 st.html(
     '<div class="foot">'
-    "Brain MRI Classification · CNN research project · Educational use only"
+    '<span><strong>Brain MRI</strong> · Medical imaging workspace</span>'
+    '<span>CNN research project · Educational use only</span>' 
     "</div>"
 )
