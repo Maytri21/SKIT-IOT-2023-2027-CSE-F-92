@@ -1,0 +1,35 @@
+
+# Python virtual environments
+.venv/
+venv/
+.venv_tf/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Secrets
+.env
+**/.env
+.streamlit/secrets.toml
+**/.streamlit/secrets.toml
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+*.tmp
+
+# Dataset images - keep local, do not upload
+dataset/Training/
+dataset/Testing/
+
+# Large archives
+*.zip
+
+# Keep trained model and evaluation results in Git
+# models/ and results/ are intentionally NOT ignored
