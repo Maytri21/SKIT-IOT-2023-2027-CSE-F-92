@@ -1,0 +1,3124 @@
+[
+    {
+        "image": "Te-gl_1.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_1.jpg",
+        "actual": "glioma",
+        "predicted": "notumor",
+        "confidence": 0.8115752935409546
+    },
+    {
+        "image": "Te-gl_101.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_101.jpg",
+        "actual": "glioma",
+        "predicted": "notumor",
+        "confidence": 0.5291340351104736
+    },
+    {
+        "image": "Te-gl_102.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_102.jpg",
+        "actual": "glioma",
+        "predicted": "pituitary",
+        "confidence": 0.4757993519306183
+    },
+    {
+        "image": "Te-gl_103.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_103.jpg",
+        "actual": "glioma",
+        "predicted": "notumor",
+        "confidence": 0.8989200592041016
+    },
+    {
+        "image": "Te-gl_104.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_104.jpg",
+        "actual": "glioma",
+        "predicted": "meningioma",
+        "confidence": 0.6386132836341858
+    },
+    {
+        "image": "Te-gl_106.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_106.jpg",
+        "actual": "glioma",
+        "predicted": "notumor",
+        "confidence": 0.9994661211967468
+    },
+    {
+        "image": "Te-gl_108.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_108.jpg",
+        "actual": "glioma",
+        "predicted": "pituitary",
+        "confidence": 0.6048696041107178
+    },
+    {
+        "image": "Te-gl_109.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_109.jpg",
+        "actual": "glioma",
+        "predicted": "notumor",
+        "confidence": 0.8114229440689087
+    },
+    {
+        "image": "Te-gl_110.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_110.jpg",
+        "actual": "glioma",
+        "predicted": "meningioma",
+        "confidence": 0.7495400309562683
+    },
+    {
+        "image": "Te-gl_113.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_113.jpg",
+        "actual": "glioma",
+        "predicted": "pituitary",
+        "confidence": 0.5293668508529663
+    },
+    {
+        "image": "Te-gl_114.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_114.jpg",
+        "actual": "glioma",
+        "predicted": "meningioma",
+        "confidence": 0.49633973836898804
+    },
+    {
+        "image": "Te-gl_115.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_115.jpg",
+        "actual": "glioma",
+        "predicted": "notumor",
+        "confidence": 0.6806320548057556
+    },
+    {
+        "image": "Te-gl_118.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_118.jpg",
+        "actual": "glioma",
+        "predicted": "meningioma",
+        "confidence": 0.40537628531455994
+    },
+    {
+        "image": "Te-gl_119.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_119.jpg",
+        "actual": "glioma",
+        "predicted": "meningioma",
+        "confidence": 0.7160214781761169
+    },
+    {
+        "image": "Te-gl_12.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_12.jpg",
+        "actual": "glioma",
+        "predicted": "notumor",
+        "confidence": 0.4096967279911041
+    },
+    {
+        "image": "Te-gl_120.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_120.jpg",
+        "actual": "glioma",
+        "predicted": "notumor",
+        "confidence": 0.6280632615089417
+    },
+    {
+        "image": "Te-gl_126.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_126.jpg",
+        "actual": "glioma",
+        "predicted": "notumor",
+        "confidence": 0.8452269434928894
+    },
+    {
+        "image": "Te-gl_127.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_127.jpg",
+        "actual": "glioma",
+        "predicted": "meningioma",
+        "confidence": 0.422551691532135
+    },
+    {
+        "image": "Te-gl_129.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_129.jpg",
+        "actual": "glioma",
+        "predicted": "notumor",
+        "confidence": 0.9144840836524963
+    },
+    {
+        "image": "Te-gl_130.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_130.jpg",
+        "actual": "glioma",
+        "predicted": "meningioma",
+        "confidence": 0.5361877083778381
+    },
+    {
+        "image": "Te-gl_131.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_131.jpg",
+        "actual": "glioma",
+        "predicted": "notumor",
+        "confidence": 0.552188515663147
+    },
+    {
+        "image": "Te-gl_133.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_133.jpg",
+        "actual": "glioma",
+        "predicted": "notumor",
+        "confidence": 0.999913215637207
+    },
+    {
+        "image": "Te-gl_134.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_134.jpg",
+        "actual": "glioma",
+        "predicted": "meningioma",
+        "confidence": 0.46413880586624146
+    },
+    {
+        "image": "Te-gl_138.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_138.jpg",
+        "actual": "glioma",
+        "predicted": "meningioma",
+        "confidence": 0.6963756084442139
+    },
+    {
+        "image": "Te-gl_14.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_14.jpg",
+        "actual": "glioma",
+        "predicted": "meningioma",
+        "confidence": 0.767591118812561
+    },
+    {
+        "image": "Te-gl_140.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_140.jpg",
+        "actual": "glioma",
+        "predicted": "notumor",
+        "confidence": 0.8175244927406311
+    },
+    {
+        "image": "Te-gl_142.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_142.jpg",
+        "actual": "glioma",
+        "predicted": "meningioma",
+        "confidence": 0.6911864876747131
+    },
+    {
+        "image": "Te-gl_143.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_143.jpg",
+        "actual": "glioma",
+        "predicted": "notumor",
+        "confidence": 0.5030077695846558
+    },
+    {
+        "image": "Te-gl_144.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_144.jpg",
+        "actual": "glioma",
+        "predicted": "notumor",
+        "confidence": 0.7776684165000916
+    },
+    {
+        "image": "Te-gl_147.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_147.jpg",
+        "actual": "glioma",
+        "predicted": "pituitary",
+        "confidence": 0.815932035446167
+    },
+    {
+        "image": "Te-gl_148.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_148.jpg",
+        "actual": "glioma",
+        "predicted": "meningioma",
+        "confidence": 0.36797910928726196
+    },
+    {
+        "image": "Te-gl_149.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_149.jpg",
+        "actual": "glioma",
+        "predicted": "meningioma",
+        "confidence": 0.7383851408958435
+    },
+    {
+        "image": "Te-gl_15.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_15.jpg",
+        "actual": "glioma",
+        "predicted": "meningioma",
+        "confidence": 0.5209747552871704
+    },
+    {
+        "image": "Te-gl_151.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_151.jpg",
+        "actual": "glioma",
+        "predicted": "notumor",
+        "confidence": 0.9917320013046265
+    },
+    {
+        "image": "Te-gl_157.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_157.jpg",
+        "actual": "glioma",
+        "predicted": "meningioma",
+        "confidence": 0.7538377642631531
+    },
+    {
+        "image": "Te-gl_159.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_159.jpg",
+        "actual": "glioma",
+        "predicted": "notumor",
+        "confidence": 0.9695102572441101
+    },
+    {
+        "image": "Te-gl_16.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_16.jpg",
+        "actual": "glioma",
+        "predicted": "meningioma",
+        "confidence": 0.6455674767494202
+    },
+    {
+        "image": "Te-gl_160.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_160.jpg",
+        "actual": "glioma",
+        "predicted": "notumor",
+        "confidence": 0.9882820248603821
+    },
+    {
+        "image": "Te-gl_165.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_165.jpg",
+        "actual": "glioma",
+        "predicted": "meningioma",
+        "confidence": 0.6646405458450317
+    },
+    {
+        "image": "Te-gl_166.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_166.jpg",
+        "actual": "glioma",
+        "predicted": "notumor",
+        "confidence": 0.9987157583236694
+    },
+    {
+        "image": "Te-gl_167.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_167.jpg",
+        "actual": "glioma",
+        "predicted": "pituitary",
+        "confidence": 0.5003951787948608
+    },
+    {
+        "image": "Te-gl_170.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_170.jpg",
+        "actual": "glioma",
+        "predicted": "notumor",
+        "confidence": 0.6965758800506592
+    },
+    {
+        "image": "Te-gl_171.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_171.jpg",
+        "actual": "glioma",
+        "predicted": "notumor",
+        "confidence": 0.9347984194755554
+    },
+    {
+        "image": "Te-gl_172.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_172.jpg",
+        "actual": "glioma",
+        "predicted": "meningioma",
+        "confidence": 0.6237678527832031
+    },
+    {
+        "image": "Te-gl_175.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_175.jpg",
+        "actual": "glioma",
+        "predicted": "meningioma",
+        "confidence": 0.73040771484375
+    },
+    {
+        "image": "Te-gl_176.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_176.jpg",
+        "actual": "glioma",
+        "predicted": "pituitary",
+        "confidence": 0.726860761642456
+    },
+    {
+        "image": "Te-gl_179.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_179.jpg",
+        "actual": "glioma",
+        "predicted": "notumor",
+        "confidence": 0.8883959650993347
+    },
+    {
+        "image": "Te-gl_184.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_184.jpg",
+        "actual": "glioma",
+        "predicted": "meningioma",
+        "confidence": 0.7467916011810303
+    },
+    {
+        "image": "Te-gl_185.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_185.jpg",
+        "actual": "glioma",
+        "predicted": "notumor",
+        "confidence": 0.7649011611938477
+    },
+    {
+        "image": "Te-gl_187.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_187.jpg",
+        "actual": "glioma",
+        "predicted": "notumor",
+        "confidence": 0.683199405670166
+    },
+    {
+        "image": "Te-gl_189.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_189.jpg",
+        "actual": "glioma",
+        "predicted": "notumor",
+        "confidence": 0.6801730394363403
+    },
+    {
+        "image": "Te-gl_190.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_190.jpg",
+        "actual": "glioma",
+        "predicted": "notumor",
+        "confidence": 0.7271551489830017
+    },
+    {
+        "image": "Te-gl_191.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_191.jpg",
+        "actual": "glioma",
+        "predicted": "meningioma",
+        "confidence": 0.5969363451004028
+    },
+    {
+        "image": "Te-gl_193.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_193.jpg",
+        "actual": "glioma",
+        "predicted": "meningioma",
+        "confidence": 0.5101664662361145
+    },
+    {
+        "image": "Te-gl_194.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_194.jpg",
+        "actual": "glioma",
+        "predicted": "meningioma",
+        "confidence": 0.5873900651931763
+    },
+    {
+        "image": "Te-gl_195.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_195.jpg",
+        "actual": "glioma",
+        "predicted": "meningioma",
+        "confidence": 0.4877757728099823
+    },
+    {
+        "image": "Te-gl_196.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_196.jpg",
+        "actual": "glioma",
+        "predicted": "notumor",
+        "confidence": 0.8977876305580139
+    },
+    {
+        "image": "Te-gl_20.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_20.jpg",
+        "actual": "glioma",
+        "predicted": "meningioma",
+        "confidence": 0.5182865858078003
+    },
+    {
+        "image": "Te-gl_201.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_201.jpg",
+        "actual": "glioma",
+        "predicted": "meningioma",
+        "confidence": 0.5606876015663147
+    },
+    {
+        "image": "Te-gl_204.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_204.jpg",
+        "actual": "glioma",
+        "predicted": "notumor",
+        "confidence": 0.968148410320282
+    },
+    {
+        "image": "Te-gl_205.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_205.jpg",
+        "actual": "glioma",
+        "predicted": "pituitary",
+        "confidence": 0.48410850763320923
+    },
+    {
+        "image": "Te-gl_207.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_207.jpg",
+        "actual": "glioma",
+        "predicted": "pituitary",
+        "confidence": 0.8268614411354065
+    },
+    {
+        "image": "Te-gl_208.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_208.jpg",
+        "actual": "glioma",
+        "predicted": "meningioma",
+        "confidence": 0.6274778246879578
+    },
+    {
+        "image": "Te-gl_211.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_211.jpg",
+        "actual": "glioma",
+        "predicted": "meningioma",
+        "confidence": 0.49362343549728394
+    },
+    {
+        "image": "Te-gl_212.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_212.jpg",
+        "actual": "glioma",
+        "predicted": "pituitary",
+        "confidence": 0.9166098237037659
+    },
+    {
+        "image": "Te-gl_215.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_215.jpg",
+        "actual": "glioma",
+        "predicted": "pituitary",
+        "confidence": 0.8168914914131165
+    },
+    {
+        "image": "Te-gl_218.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_218.jpg",
+        "actual": "glioma",
+        "predicted": "notumor",
+        "confidence": 0.8623492121696472
+    },
+    {
+        "image": "Te-gl_22.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_22.jpg",
+        "actual": "glioma",
+        "predicted": "notumor",
+        "confidence": 0.38125696778297424
+    },
+    {
+        "image": "Te-gl_224.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_224.jpg",
+        "actual": "glioma",
+        "predicted": "meningioma",
+        "confidence": 0.6633754968643188
+    },
+    {
+        "image": "Te-gl_229.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_229.jpg",
+        "actual": "glioma",
+        "predicted": "notumor",
+        "confidence": 0.7104970216751099
+    },
+    {
+        "image": "Te-gl_23.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_23.jpg",
+        "actual": "glioma",
+        "predicted": "meningioma",
+        "confidence": 0.518972635269165
+    },
+    {
+        "image": "Te-gl_232.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_232.jpg",
+        "actual": "glioma",
+        "predicted": "meningioma",
+        "confidence": 0.4652377963066101
+    },
+    {
+        "image": "Te-gl_236.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_236.jpg",
+        "actual": "glioma",
+        "predicted": "meningioma",
+        "confidence": 0.5559553503990173
+    },
+    {
+        "image": "Te-gl_239.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_239.jpg",
+        "actual": "glioma",
+        "predicted": "meningioma",
+        "confidence": 0.8051871657371521
+    },
+    {
+        "image": "Te-gl_241.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_241.jpg",
+        "actual": "glioma",
+        "predicted": "notumor",
+        "confidence": 0.5606761574745178
+    },
+    {
+        "image": "Te-gl_247.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_247.jpg",
+        "actual": "glioma",
+        "predicted": "meningioma",
+        "confidence": 0.5588761568069458
+    },
+    {
+        "image": "Te-gl_25.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_25.jpg",
+        "actual": "glioma",
+        "predicted": "meningioma",
+        "confidence": 0.4233705401420593
+    },
+    {
+        "image": "Te-gl_250.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_250.jpg",
+        "actual": "glioma",
+        "predicted": "meningioma",
+        "confidence": 0.5732506513595581
+    },
+    {
+        "image": "Te-gl_260.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_260.jpg",
+        "actual": "glioma",
+        "predicted": "pituitary",
+        "confidence": 0.46191707253456116
+    },
+    {
+        "image": "Te-gl_263.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_263.jpg",
+        "actual": "glioma",
+        "predicted": "meningioma",
+        "confidence": 0.6653905510902405
+    },
+    {
+        "image": "Te-gl_264.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_264.jpg",
+        "actual": "glioma",
+        "predicted": "notumor",
+        "confidence": 0.714681088924408
+    },
+    {
+        "image": "Te-gl_269.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_269.jpg",
+        "actual": "glioma",
+        "predicted": "meningioma",
+        "confidence": 0.8526707291603088
+    },
+    {
+        "image": "Te-gl_27.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_27.jpg",
+        "actual": "glioma",
+        "predicted": "notumor",
+        "confidence": 0.8516268730163574
+    },
+    {
+        "image": "Te-gl_270.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_270.jpg",
+        "actual": "glioma",
+        "predicted": "meningioma",
+        "confidence": 0.5193917751312256
+    },
+    {
+        "image": "Te-gl_275.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_275.jpg",
+        "actual": "glioma",
+        "predicted": "notumor",
+        "confidence": 0.8617933988571167
+    },
+    {
+        "image": "Te-gl_276.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_276.jpg",
+        "actual": "glioma",
+        "predicted": "notumor",
+        "confidence": 0.9933456182479858
+    },
+    {
+        "image": "Te-gl_277.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_277.jpg",
+        "actual": "glioma",
+        "predicted": "notumor",
+        "confidence": 0.9627510905265808
+    },
+    {
+        "image": "Te-gl_279.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_279.jpg",
+        "actual": "glioma",
+        "predicted": "notumor",
+        "confidence": 0.6652623414993286
+    },
+    {
+        "image": "Te-gl_285.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_285.jpg",
+        "actual": "glioma",
+        "predicted": "meningioma",
+        "confidence": 0.6829749345779419
+    },
+    {
+        "image": "Te-gl_287.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_287.jpg",
+        "actual": "glioma",
+        "predicted": "meningioma",
+        "confidence": 0.6375010013580322
+    },
+    {
+        "image": "Te-gl_291.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_291.jpg",
+        "actual": "glioma",
+        "predicted": "notumor",
+        "confidence": 0.5036398768424988
+    },
+    {
+        "image": "Te-gl_293.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_293.jpg",
+        "actual": "glioma",
+        "predicted": "meningioma",
+        "confidence": 0.4331884980201721
+    },
+    {
+        "image": "Te-gl_295.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_295.jpg",
+        "actual": "glioma",
+        "predicted": "notumor",
+        "confidence": 0.957107424736023
+    },
+    {
+        "image": "Te-gl_297.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_297.jpg",
+        "actual": "glioma",
+        "predicted": "notumor",
+        "confidence": 0.8876988887786865
+    },
+    {
+        "image": "Te-gl_298.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_298.jpg",
+        "actual": "glioma",
+        "predicted": "meningioma",
+        "confidence": 0.43727758526802063
+    },
+    {
+        "image": "Te-gl_30.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_30.jpg",
+        "actual": "glioma",
+        "predicted": "notumor",
+        "confidence": 0.9761677980422974
+    },
+    {
+        "image": "Te-gl_304.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_304.jpg",
+        "actual": "glioma",
+        "predicted": "meningioma",
+        "confidence": 0.7524770498275757
+    },
+    {
+        "image": "Te-gl_305.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_305.jpg",
+        "actual": "glioma",
+        "predicted": "meningioma",
+        "confidence": 0.8037774562835693
+    },
+    {
+        "image": "Te-gl_306.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_306.jpg",
+        "actual": "glioma",
+        "predicted": "meningioma",
+        "confidence": 0.5970351099967957
+    },
+    {
+        "image": "Te-gl_308.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_308.jpg",
+        "actual": "glioma",
+        "predicted": "meningioma",
+        "confidence": 0.7039171457290649
+    },
+    {
+        "image": "Te-gl_310.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_310.jpg",
+        "actual": "glioma",
+        "predicted": "notumor",
+        "confidence": 0.7734608054161072
+    },
+    {
+        "image": "Te-gl_313.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_313.jpg",
+        "actual": "glioma",
+        "predicted": "notumor",
+        "confidence": 0.9923192858695984
+    },
+    {
+        "image": "Te-gl_314.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_314.jpg",
+        "actual": "glioma",
+        "predicted": "notumor",
+        "confidence": 0.9949754476547241
+    },
+    {
+        "image": "Te-gl_315.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_315.jpg",
+        "actual": "glioma",
+        "predicted": "meningioma",
+        "confidence": 0.6007413268089294
+    },
+    {
+        "image": "Te-gl_318.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_318.jpg",
+        "actual": "glioma",
+        "predicted": "notumor",
+        "confidence": 0.6973020434379578
+    },
+    {
+        "image": "Te-gl_319.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_319.jpg",
+        "actual": "glioma",
+        "predicted": "meningioma",
+        "confidence": 0.7756181955337524
+    },
+    {
+        "image": "Te-gl_32.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_32.jpg",
+        "actual": "glioma",
+        "predicted": "pituitary",
+        "confidence": 0.9110739827156067
+    },
+    {
+        "image": "Te-gl_323.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_323.jpg",
+        "actual": "glioma",
+        "predicted": "pituitary",
+        "confidence": 0.5529097318649292
+    },
+    {
+        "image": "Te-gl_327.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_327.jpg",
+        "actual": "glioma",
+        "predicted": "meningioma",
+        "confidence": 0.6553882360458374
+    },
+    {
+        "image": "Te-gl_330.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_330.jpg",
+        "actual": "glioma",
+        "predicted": "pituitary",
+        "confidence": 0.5412850379943848
+    },
+    {
+        "image": "Te-gl_331.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_331.jpg",
+        "actual": "glioma",
+        "predicted": "pituitary",
+        "confidence": 0.6843451261520386
+    },
+    {
+        "image": "Te-gl_333.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_333.jpg",
+        "actual": "glioma",
+        "predicted": "pituitary",
+        "confidence": 0.5265562534332275
+    },
+    {
+        "image": "Te-gl_335.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_335.jpg",
+        "actual": "glioma",
+        "predicted": "notumor",
+        "confidence": 0.7266256809234619
+    },
+    {
+        "image": "Te-gl_337.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_337.jpg",
+        "actual": "glioma",
+        "predicted": "meningioma",
+        "confidence": 0.5076361894607544
+    },
+    {
+        "image": "Te-gl_341.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_341.jpg",
+        "actual": "glioma",
+        "predicted": "notumor",
+        "confidence": 0.9945808053016663
+    },
+    {
+        "image": "Te-gl_346.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_346.jpg",
+        "actual": "glioma",
+        "predicted": "meningioma",
+        "confidence": 0.5456050038337708
+    },
+    {
+        "image": "Te-gl_349.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_349.jpg",
+        "actual": "glioma",
+        "predicted": "notumor",
+        "confidence": 0.6305618286132812
+    },
+    {
+        "image": "Te-gl_350.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_350.jpg",
+        "actual": "glioma",
+        "predicted": "notumor",
+        "confidence": 0.9289630651473999
+    },
+    {
+        "image": "Te-gl_351.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_351.jpg",
+        "actual": "glioma",
+        "predicted": "notumor",
+        "confidence": 0.9739072322845459
+    },
+    {
+        "image": "Te-gl_356.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_356.jpg",
+        "actual": "glioma",
+        "predicted": "meningioma",
+        "confidence": 0.7259594202041626
+    },
+    {
+        "image": "Te-gl_358.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_358.jpg",
+        "actual": "glioma",
+        "predicted": "notumor",
+        "confidence": 0.9995763897895813
+    },
+    {
+        "image": "Te-gl_363.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_363.jpg",
+        "actual": "glioma",
+        "predicted": "pituitary",
+        "confidence": 0.44836726784706116
+    },
+    {
+        "image": "Te-gl_365.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_365.jpg",
+        "actual": "glioma",
+        "predicted": "meningioma",
+        "confidence": 0.5105538368225098
+    },
+    {
+        "image": "Te-gl_368.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_368.jpg",
+        "actual": "glioma",
+        "predicted": "pituitary",
+        "confidence": 0.6113239526748657
+    },
+    {
+        "image": "Te-gl_369.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_369.jpg",
+        "actual": "glioma",
+        "predicted": "meningioma",
+        "confidence": 0.7099709510803223
+    },
+    {
+        "image": "Te-gl_371.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_371.jpg",
+        "actual": "glioma",
+        "predicted": "meningioma",
+        "confidence": 0.5196077823638916
+    },
+    {
+        "image": "Te-gl_372.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_372.jpg",
+        "actual": "glioma",
+        "predicted": "notumor",
+        "confidence": 0.9969248175621033
+    },
+    {
+        "image": "Te-gl_376.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_376.jpg",
+        "actual": "glioma",
+        "predicted": "notumor",
+        "confidence": 0.9963548183441162
+    },
+    {
+        "image": "Te-gl_377.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_377.jpg",
+        "actual": "glioma",
+        "predicted": "meningioma",
+        "confidence": 0.7510784268379211
+    },
+    {
+        "image": "Te-gl_380.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_380.jpg",
+        "actual": "glioma",
+        "predicted": "meningioma",
+        "confidence": 0.5602281093597412
+    },
+    {
+        "image": "Te-gl_384.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_384.jpg",
+        "actual": "glioma",
+        "predicted": "pituitary",
+        "confidence": 0.45539557933807373
+    },
+    {
+        "image": "Te-gl_388.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_388.jpg",
+        "actual": "glioma",
+        "predicted": "meningioma",
+        "confidence": 0.6198418736457825
+    },
+    {
+        "image": "Te-gl_39.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_39.jpg",
+        "actual": "glioma",
+        "predicted": "notumor",
+        "confidence": 0.5829247832298279
+    },
+    {
+        "image": "Te-gl_391.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_391.jpg",
+        "actual": "glioma",
+        "predicted": "notumor",
+        "confidence": 0.9940160512924194
+    },
+    {
+        "image": "Te-gl_395.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_395.jpg",
+        "actual": "glioma",
+        "predicted": "meningioma",
+        "confidence": 0.729965329170227
+    },
+    {
+        "image": "Te-gl_399.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_399.jpg",
+        "actual": "glioma",
+        "predicted": "meningioma",
+        "confidence": 0.5666225552558899
+    },
+    {
+        "image": "Te-gl_43.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_43.jpg",
+        "actual": "glioma",
+        "predicted": "notumor",
+        "confidence": 0.9998319149017334
+    },
+    {
+        "image": "Te-gl_47.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_47.jpg",
+        "actual": "glioma",
+        "predicted": "notumor",
+        "confidence": 0.5324893593788147
+    },
+    {
+        "image": "Te-gl_51.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_51.jpg",
+        "actual": "glioma",
+        "predicted": "pituitary",
+        "confidence": 0.45697009563446045
+    },
+    {
+        "image": "Te-gl_53.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_53.jpg",
+        "actual": "glioma",
+        "predicted": "notumor",
+        "confidence": 0.8956785202026367
+    },
+    {
+        "image": "Te-gl_57.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_57.jpg",
+        "actual": "glioma",
+        "predicted": "meningioma",
+        "confidence": 0.7273887991905212
+    },
+    {
+        "image": "Te-gl_58.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_58.jpg",
+        "actual": "glioma",
+        "predicted": "notumor",
+        "confidence": 0.9914310574531555
+    },
+    {
+        "image": "Te-gl_62.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_62.jpg",
+        "actual": "glioma",
+        "predicted": "notumor",
+        "confidence": 0.9777882695198059
+    },
+    {
+        "image": "Te-gl_65.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_65.jpg",
+        "actual": "glioma",
+        "predicted": "meningioma",
+        "confidence": 0.6831753849983215
+    },
+    {
+        "image": "Te-gl_66.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_66.jpg",
+        "actual": "glioma",
+        "predicted": "notumor",
+        "confidence": 0.6102690100669861
+    },
+    {
+        "image": "Te-gl_67.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_67.jpg",
+        "actual": "glioma",
+        "predicted": "meningioma",
+        "confidence": 0.5304397344589233
+    },
+    {
+        "image": "Te-gl_68.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_68.jpg",
+        "actual": "glioma",
+        "predicted": "notumor",
+        "confidence": 0.6778812408447266
+    },
+    {
+        "image": "Te-gl_71.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_71.jpg",
+        "actual": "glioma",
+        "predicted": "meningioma",
+        "confidence": 0.7038242816925049
+    },
+    {
+        "image": "Te-gl_73.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_73.jpg",
+        "actual": "glioma",
+        "predicted": "pituitary",
+        "confidence": 0.8451563119888306
+    },
+    {
+        "image": "Te-gl_74.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_74.jpg",
+        "actual": "glioma",
+        "predicted": "notumor",
+        "confidence": 0.7673472166061401
+    },
+    {
+        "image": "Te-gl_76.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_76.jpg",
+        "actual": "glioma",
+        "predicted": "notumor",
+        "confidence": 0.8384825587272644
+    },
+    {
+        "image": "Te-gl_77.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_77.jpg",
+        "actual": "glioma",
+        "predicted": "meningioma",
+        "confidence": 0.5359632968902588
+    },
+    {
+        "image": "Te-gl_78.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_78.jpg",
+        "actual": "glioma",
+        "predicted": "notumor",
+        "confidence": 0.9998088479042053
+    },
+    {
+        "image": "Te-gl_84.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_84.jpg",
+        "actual": "glioma",
+        "predicted": "notumor",
+        "confidence": 0.8918599486351013
+    },
+    {
+        "image": "Te-gl_86.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_86.jpg",
+        "actual": "glioma",
+        "predicted": "notumor",
+        "confidence": 0.9309947490692139
+    },
+    {
+        "image": "Te-gl_87.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_87.jpg",
+        "actual": "glioma",
+        "predicted": "meningioma",
+        "confidence": 0.5621216893196106
+    },
+    {
+        "image": "Te-gl_88.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_88.jpg",
+        "actual": "glioma",
+        "predicted": "meningioma",
+        "confidence": 0.797143280506134
+    },
+    {
+        "image": "Te-gl_89.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_89.jpg",
+        "actual": "glioma",
+        "predicted": "pituitary",
+        "confidence": 0.3555225133895874
+    },
+    {
+        "image": "Te-gl_90.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_90.jpg",
+        "actual": "glioma",
+        "predicted": "meningioma",
+        "confidence": 0.5124483704566956
+    },
+    {
+        "image": "Te-gl_92.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_92.jpg",
+        "actual": "glioma",
+        "predicted": "meningioma",
+        "confidence": 0.5134649276733398
+    },
+    {
+        "image": "Te-gl_94.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_94.jpg",
+        "actual": "glioma",
+        "predicted": "pituitary",
+        "confidence": 0.9191010594367981
+    },
+    {
+        "image": "Te-gl_97.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\glioma\\Te-gl_97.jpg",
+        "actual": "glioma",
+        "predicted": "notumor",
+        "confidence": 0.998717188835144
+    },
+    {
+        "image": "Te-aug-me_10.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-aug-me_10.jpg",
+        "actual": "meningioma",
+        "predicted": "pituitary",
+        "confidence": 0.5237675309181213
+    },
+    {
+        "image": "Te-aug-me_100.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-aug-me_100.jpg",
+        "actual": "meningioma",
+        "predicted": "pituitary",
+        "confidence": 0.7678956985473633
+    },
+    {
+        "image": "Te-aug-me_101.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-aug-me_101.jpg",
+        "actual": "meningioma",
+        "predicted": "pituitary",
+        "confidence": 0.5147160887718201
+    },
+    {
+        "image": "Te-aug-me_102.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-aug-me_102.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.7913517355918884
+    },
+    {
+        "image": "Te-aug-me_103.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-aug-me_103.jpg",
+        "actual": "meningioma",
+        "predicted": "glioma",
+        "confidence": 0.5728065371513367
+    },
+    {
+        "image": "Te-aug-me_11.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-aug-me_11.jpg",
+        "actual": "meningioma",
+        "predicted": "glioma",
+        "confidence": 0.5022396445274353
+    },
+    {
+        "image": "Te-aug-me_13.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-aug-me_13.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.9029035568237305
+    },
+    {
+        "image": "Te-aug-me_14.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-aug-me_14.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.5428717136383057
+    },
+    {
+        "image": "Te-aug-me_16.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-aug-me_16.jpg",
+        "actual": "meningioma",
+        "predicted": "glioma",
+        "confidence": 0.45182129740715027
+    },
+    {
+        "image": "Te-aug-me_19.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-aug-me_19.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.4004500210285187
+    },
+    {
+        "image": "Te-aug-me_20.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-aug-me_20.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.4338195323944092
+    },
+    {
+        "image": "Te-aug-me_22.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-aug-me_22.jpg",
+        "actual": "meningioma",
+        "predicted": "pituitary",
+        "confidence": 0.6858788728713989
+    },
+    {
+        "image": "Te-aug-me_23.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-aug-me_23.jpg",
+        "actual": "meningioma",
+        "predicted": "glioma",
+        "confidence": 0.5034244060516357
+    },
+    {
+        "image": "Te-aug-me_24.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-aug-me_24.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.5349084138870239
+    },
+    {
+        "image": "Te-aug-me_25.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-aug-me_25.jpg",
+        "actual": "meningioma",
+        "predicted": "glioma",
+        "confidence": 0.8353095054626465
+    },
+    {
+        "image": "Te-aug-me_27.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-aug-me_27.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.5450897812843323
+    },
+    {
+        "image": "Te-aug-me_28.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-aug-me_28.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.6511666178703308
+    },
+    {
+        "image": "Te-aug-me_29.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-aug-me_29.jpg",
+        "actual": "meningioma",
+        "predicted": "pituitary",
+        "confidence": 0.6001600623130798
+    },
+    {
+        "image": "Te-aug-me_34.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-aug-me_34.jpg",
+        "actual": "meningioma",
+        "predicted": "glioma",
+        "confidence": 0.8414912819862366
+    },
+    {
+        "image": "Te-aug-me_35.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-aug-me_35.jpg",
+        "actual": "meningioma",
+        "predicted": "glioma",
+        "confidence": 0.7007105350494385
+    },
+    {
+        "image": "Te-aug-me_36.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-aug-me_36.jpg",
+        "actual": "meningioma",
+        "predicted": "glioma",
+        "confidence": 0.626366913318634
+    },
+    {
+        "image": "Te-aug-me_37.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-aug-me_37.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.5508126616477966
+    },
+    {
+        "image": "Te-aug-me_38.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-aug-me_38.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.5055883526802063
+    },
+    {
+        "image": "Te-aug-me_40.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-aug-me_40.jpg",
+        "actual": "meningioma",
+        "predicted": "pituitary",
+        "confidence": 0.3983112871646881
+    },
+    {
+        "image": "Te-aug-me_41.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-aug-me_41.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.9571883082389832
+    },
+    {
+        "image": "Te-aug-me_42.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-aug-me_42.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.7473242878913879
+    },
+    {
+        "image": "Te-aug-me_43.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-aug-me_43.jpg",
+        "actual": "meningioma",
+        "predicted": "pituitary",
+        "confidence": 0.8441087007522583
+    },
+    {
+        "image": "Te-aug-me_48.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-aug-me_48.jpg",
+        "actual": "meningioma",
+        "predicted": "pituitary",
+        "confidence": 0.6248212456703186
+    },
+    {
+        "image": "Te-aug-me_50.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-aug-me_50.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.49073106050491333
+    },
+    {
+        "image": "Te-aug-me_51.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-aug-me_51.jpg",
+        "actual": "meningioma",
+        "predicted": "glioma",
+        "confidence": 0.7433251142501831
+    },
+    {
+        "image": "Te-aug-me_52.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-aug-me_52.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.841630756855011
+    },
+    {
+        "image": "Te-aug-me_53.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-aug-me_53.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.7361425161361694
+    },
+    {
+        "image": "Te-aug-me_54.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-aug-me_54.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.9344465732574463
+    },
+    {
+        "image": "Te-aug-me_56.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-aug-me_56.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.7912135720252991
+    },
+    {
+        "image": "Te-aug-me_58.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-aug-me_58.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.942631721496582
+    },
+    {
+        "image": "Te-aug-me_6.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-aug-me_6.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.5575656294822693
+    },
+    {
+        "image": "Te-aug-me_60.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-aug-me_60.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.572331964969635
+    },
+    {
+        "image": "Te-aug-me_64.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-aug-me_64.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.8904708623886108
+    },
+    {
+        "image": "Te-aug-me_65.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-aug-me_65.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.9806963801383972
+    },
+    {
+        "image": "Te-aug-me_66.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-aug-me_66.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.3597104251384735
+    },
+    {
+        "image": "Te-aug-me_67.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-aug-me_67.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.6628299355506897
+    },
+    {
+        "image": "Te-aug-me_68.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-aug-me_68.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.9718592762947083
+    },
+    {
+        "image": "Te-aug-me_69.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-aug-me_69.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.7376365661621094
+    },
+    {
+        "image": "Te-aug-me_7.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-aug-me_7.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.844880223274231
+    },
+    {
+        "image": "Te-aug-me_70.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-aug-me_70.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.39247366786003113
+    },
+    {
+        "image": "Te-aug-me_71.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-aug-me_71.jpg",
+        "actual": "meningioma",
+        "predicted": "pituitary",
+        "confidence": 0.5086639523506165
+    },
+    {
+        "image": "Te-aug-me_72.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-aug-me_72.jpg",
+        "actual": "meningioma",
+        "predicted": "pituitary",
+        "confidence": 0.3556184768676758
+    },
+    {
+        "image": "Te-aug-me_75.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-aug-me_75.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.9964800477027893
+    },
+    {
+        "image": "Te-aug-me_77.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-aug-me_77.jpg",
+        "actual": "meningioma",
+        "predicted": "glioma",
+        "confidence": 0.5448466539382935
+    },
+    {
+        "image": "Te-aug-me_78.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-aug-me_78.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.830561637878418
+    },
+    {
+        "image": "Te-aug-me_79.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-aug-me_79.jpg",
+        "actual": "meningioma",
+        "predicted": "pituitary",
+        "confidence": 0.45825573801994324
+    },
+    {
+        "image": "Te-aug-me_8.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-aug-me_8.jpg",
+        "actual": "meningioma",
+        "predicted": "glioma",
+        "confidence": 0.818071722984314
+    },
+    {
+        "image": "Te-aug-me_80.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-aug-me_80.jpg",
+        "actual": "meningioma",
+        "predicted": "pituitary",
+        "confidence": 0.836219072341919
+    },
+    {
+        "image": "Te-aug-me_81.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-aug-me_81.jpg",
+        "actual": "meningioma",
+        "predicted": "glioma",
+        "confidence": 0.7210572957992554
+    },
+    {
+        "image": "Te-aug-me_85.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-aug-me_85.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.937367856502533
+    },
+    {
+        "image": "Te-aug-me_86.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-aug-me_86.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.7725504040718079
+    },
+    {
+        "image": "Te-aug-me_87.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-aug-me_87.jpg",
+        "actual": "meningioma",
+        "predicted": "pituitary",
+        "confidence": 0.690494179725647
+    },
+    {
+        "image": "Te-aug-me_88.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-aug-me_88.jpg",
+        "actual": "meningioma",
+        "predicted": "pituitary",
+        "confidence": 0.5203096866607666
+    },
+    {
+        "image": "Te-aug-me_9.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-aug-me_9.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.625758707523346
+    },
+    {
+        "image": "Te-aug-me_90.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-aug-me_90.jpg",
+        "actual": "meningioma",
+        "predicted": "pituitary",
+        "confidence": 0.6443715691566467
+    },
+    {
+        "image": "Te-aug-me_91.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-aug-me_91.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.43003198504447937
+    },
+    {
+        "image": "Te-aug-me_92.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-aug-me_92.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.7498865127563477
+    },
+    {
+        "image": "Te-aug-me_93.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-aug-me_93.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.8925520777702332
+    },
+    {
+        "image": "Te-aug-me_94.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-aug-me_94.jpg",
+        "actual": "meningioma",
+        "predicted": "glioma",
+        "confidence": 0.48478963971138
+    },
+    {
+        "image": "Te-aug-me_95.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-aug-me_95.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.6752099990844727
+    },
+    {
+        "image": "Te-aug-me_96.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-aug-me_96.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.8217117786407471
+    },
+    {
+        "image": "Te-me_1.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_1.jpg",
+        "actual": "meningioma",
+        "predicted": "pituitary",
+        "confidence": 0.8288812637329102
+    },
+    {
+        "image": "Te-me_10.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_10.jpg",
+        "actual": "meningioma",
+        "predicted": "pituitary",
+        "confidence": 0.8638789057731628
+    },
+    {
+        "image": "Te-me_100.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_100.jpg",
+        "actual": "meningioma",
+        "predicted": "pituitary",
+        "confidence": 0.95210200548172
+    },
+    {
+        "image": "Te-me_101.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_101.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.6746957898139954
+    },
+    {
+        "image": "Te-me_105.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_105.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.7862699031829834
+    },
+    {
+        "image": "Te-me_106.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_106.jpg",
+        "actual": "meningioma",
+        "predicted": "glioma",
+        "confidence": 0.5330430865287781
+    },
+    {
+        "image": "Te-me_108.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_108.jpg",
+        "actual": "meningioma",
+        "predicted": "glioma",
+        "confidence": 0.6778344511985779
+    },
+    {
+        "image": "Te-me_109.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_109.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.7810200452804565
+    },
+    {
+        "image": "Te-me_11.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_11.jpg",
+        "actual": "meningioma",
+        "predicted": "glioma",
+        "confidence": 0.5523276925086975
+    },
+    {
+        "image": "Te-me_111.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_111.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.6629620790481567
+    },
+    {
+        "image": "Te-me_112.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_112.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.39928770065307617
+    },
+    {
+        "image": "Te-me_113.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_113.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.623505711555481
+    },
+    {
+        "image": "Te-me_114.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_114.jpg",
+        "actual": "meningioma",
+        "predicted": "pituitary",
+        "confidence": 0.9412146210670471
+    },
+    {
+        "image": "Te-me_115.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_115.jpg",
+        "actual": "meningioma",
+        "predicted": "pituitary",
+        "confidence": 0.6336027979850769
+    },
+    {
+        "image": "Te-me_116.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_116.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.941217839717865
+    },
+    {
+        "image": "Te-me_117.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_117.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.8146669864654541
+    },
+    {
+        "image": "Te-me_121.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_121.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.8992336392402649
+    },
+    {
+        "image": "Te-me_123.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_123.jpg",
+        "actual": "meningioma",
+        "predicted": "pituitary",
+        "confidence": 0.3983370065689087
+    },
+    {
+        "image": "Te-me_124.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_124.jpg",
+        "actual": "meningioma",
+        "predicted": "pituitary",
+        "confidence": 0.482730507850647
+    },
+    {
+        "image": "Te-me_125.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_125.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.9395591616630554
+    },
+    {
+        "image": "Te-me_126.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_126.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.6862975358963013
+    },
+    {
+        "image": "Te-me_127.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_127.jpg",
+        "actual": "meningioma",
+        "predicted": "glioma",
+        "confidence": 0.7808655500411987
+    },
+    {
+        "image": "Te-me_128.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_128.jpg",
+        "actual": "meningioma",
+        "predicted": "pituitary",
+        "confidence": 0.45445576310157776
+    },
+    {
+        "image": "Te-me_129.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_129.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.9965782761573792
+    },
+    {
+        "image": "Te-me_13.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_13.jpg",
+        "actual": "meningioma",
+        "predicted": "glioma",
+        "confidence": 0.8956653475761414
+    },
+    {
+        "image": "Te-me_130.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_130.jpg",
+        "actual": "meningioma",
+        "predicted": "pituitary",
+        "confidence": 0.5104420781135559
+    },
+    {
+        "image": "Te-me_132.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_132.jpg",
+        "actual": "meningioma",
+        "predicted": "glioma",
+        "confidence": 0.9384348392486572
+    },
+    {
+        "image": "Te-me_137.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_137.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.5631784796714783
+    },
+    {
+        "image": "Te-me_138.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_138.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.6040266752243042
+    },
+    {
+        "image": "Te-me_139.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_139.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.8476759791374207
+    },
+    {
+        "image": "Te-me_14.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_14.jpg",
+        "actual": "meningioma",
+        "predicted": "glioma",
+        "confidence": 0.8796282410621643
+    },
+    {
+        "image": "Te-me_143.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_143.jpg",
+        "actual": "meningioma",
+        "predicted": "glioma",
+        "confidence": 0.8223979473114014
+    },
+    {
+        "image": "Te-me_144.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_144.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.9960917830467224
+    },
+    {
+        "image": "Te-me_146.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_146.jpg",
+        "actual": "meningioma",
+        "predicted": "pituitary",
+        "confidence": 0.459553599357605
+    },
+    {
+        "image": "Te-me_149.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_149.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.6692641377449036
+    },
+    {
+        "image": "Te-me_151.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_151.jpg",
+        "actual": "meningioma",
+        "predicted": "glioma",
+        "confidence": 0.9396584033966064
+    },
+    {
+        "image": "Te-me_152.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_152.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.7391316294670105
+    },
+    {
+        "image": "Te-me_153.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_153.jpg",
+        "actual": "meningioma",
+        "predicted": "glioma",
+        "confidence": 0.9108855128288269
+    },
+    {
+        "image": "Te-me_154.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_154.jpg",
+        "actual": "meningioma",
+        "predicted": "glioma",
+        "confidence": 0.6296657919883728
+    },
+    {
+        "image": "Te-me_156.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_156.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.9767533540725708
+    },
+    {
+        "image": "Te-me_158.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_158.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.5254047513008118
+    },
+    {
+        "image": "Te-me_159.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_159.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.9976699948310852
+    },
+    {
+        "image": "Te-me_16.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_16.jpg",
+        "actual": "meningioma",
+        "predicted": "pituitary",
+        "confidence": 0.7998615503311157
+    },
+    {
+        "image": "Te-me_162.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_162.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.509394645690918
+    },
+    {
+        "image": "Te-me_163.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_163.jpg",
+        "actual": "meningioma",
+        "predicted": "glioma",
+        "confidence": 0.8377423882484436
+    },
+    {
+        "image": "Te-me_166.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_166.jpg",
+        "actual": "meningioma",
+        "predicted": "pituitary",
+        "confidence": 0.6684114933013916
+    },
+    {
+        "image": "Te-me_167.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_167.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.9998756647109985
+    },
+    {
+        "image": "Te-me_169.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_169.jpg",
+        "actual": "meningioma",
+        "predicted": "pituitary",
+        "confidence": 0.67177414894104
+    },
+    {
+        "image": "Te-me_170.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_170.jpg",
+        "actual": "meningioma",
+        "predicted": "pituitary",
+        "confidence": 0.7799041271209717
+    },
+    {
+        "image": "Te-me_171.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_171.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.8124954700469971
+    },
+    {
+        "image": "Te-me_174.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_174.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.5277012586593628
+    },
+    {
+        "image": "Te-me_175.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_175.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.5363889932632446
+    },
+    {
+        "image": "Te-me_176.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_176.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.8038565516471863
+    },
+    {
+        "image": "Te-me_177.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_177.jpg",
+        "actual": "meningioma",
+        "predicted": "glioma",
+        "confidence": 0.6330776214599609
+    },
+    {
+        "image": "Te-me_18.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_18.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.5938864946365356
+    },
+    {
+        "image": "Te-me_180.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_180.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.8826601505279541
+    },
+    {
+        "image": "Te-me_181.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_181.jpg",
+        "actual": "meningioma",
+        "predicted": "glioma",
+        "confidence": 0.39758411049842834
+    },
+    {
+        "image": "Te-me_182.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_182.jpg",
+        "actual": "meningioma",
+        "predicted": "pituitary",
+        "confidence": 0.8589674234390259
+    },
+    {
+        "image": "Te-me_183.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_183.jpg",
+        "actual": "meningioma",
+        "predicted": "glioma",
+        "confidence": 0.48160049319267273
+    },
+    {
+        "image": "Te-me_184.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_184.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.7130927443504333
+    },
+    {
+        "image": "Te-me_186.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_186.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.6936730146408081
+    },
+    {
+        "image": "Te-me_187.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_187.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.7707037925720215
+    },
+    {
+        "image": "Te-me_19.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_19.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.5581298470497131
+    },
+    {
+        "image": "Te-me_190.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_190.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.8260502219200134
+    },
+    {
+        "image": "Te-me_197.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_197.jpg",
+        "actual": "meningioma",
+        "predicted": "pituitary",
+        "confidence": 0.609900712966919
+    },
+    {
+        "image": "Te-me_2.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_2.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.5475674867630005
+    },
+    {
+        "image": "Te-me_200.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_200.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.49016353487968445
+    },
+    {
+        "image": "Te-me_201.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_201.jpg",
+        "actual": "meningioma",
+        "predicted": "pituitary",
+        "confidence": 0.4437122046947479
+    },
+    {
+        "image": "Te-me_202.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_202.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.9933683276176453
+    },
+    {
+        "image": "Te-me_205.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_205.jpg",
+        "actual": "meningioma",
+        "predicted": "pituitary",
+        "confidence": 0.5718488097190857
+    },
+    {
+        "image": "Te-me_206.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_206.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.8632364273071289
+    },
+    {
+        "image": "Te-me_207.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_207.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.8566591143608093
+    },
+    {
+        "image": "Te-me_208.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_208.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.9981697797775269
+    },
+    {
+        "image": "Te-me_209.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_209.jpg",
+        "actual": "meningioma",
+        "predicted": "pituitary",
+        "confidence": 0.8147662281990051
+    },
+    {
+        "image": "Te-me_210.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_210.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.6874129772186279
+    },
+    {
+        "image": "Te-me_212.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_212.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.6495569348335266
+    },
+    {
+        "image": "Te-me_213.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_213.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.8916388750076294
+    },
+    {
+        "image": "Te-me_214.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_214.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.9244076013565063
+    },
+    {
+        "image": "Te-me_216.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_216.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.7681224942207336
+    },
+    {
+        "image": "Te-me_217.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_217.jpg",
+        "actual": "meningioma",
+        "predicted": "pituitary",
+        "confidence": 0.7116921544075012
+    },
+    {
+        "image": "Te-me_219.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_219.jpg",
+        "actual": "meningioma",
+        "predicted": "pituitary",
+        "confidence": 0.9502467513084412
+    },
+    {
+        "image": "Te-me_221.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_221.jpg",
+        "actual": "meningioma",
+        "predicted": "pituitary",
+        "confidence": 0.6943567395210266
+    },
+    {
+        "image": "Te-me_222.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_222.jpg",
+        "actual": "meningioma",
+        "predicted": "pituitary",
+        "confidence": 0.4625450670719147
+    },
+    {
+        "image": "Te-me_223.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_223.jpg",
+        "actual": "meningioma",
+        "predicted": "pituitary",
+        "confidence": 0.5625852942466736
+    },
+    {
+        "image": "Te-me_225.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_225.jpg",
+        "actual": "meningioma",
+        "predicted": "pituitary",
+        "confidence": 0.44371679425239563
+    },
+    {
+        "image": "Te-me_226.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_226.jpg",
+        "actual": "meningioma",
+        "predicted": "pituitary",
+        "confidence": 0.38866108655929565
+    },
+    {
+        "image": "Te-me_227.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_227.jpg",
+        "actual": "meningioma",
+        "predicted": "pituitary",
+        "confidence": 0.366589218378067
+    },
+    {
+        "image": "Te-me_228.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_228.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.9407729506492615
+    },
+    {
+        "image": "Te-me_229.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_229.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.9567760825157166
+    },
+    {
+        "image": "Te-me_231.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_231.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.7465552687644958
+    },
+    {
+        "image": "Te-me_232.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_232.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.8018410801887512
+    },
+    {
+        "image": "Te-me_234.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_234.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.5256062150001526
+    },
+    {
+        "image": "Te-me_236.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_236.jpg",
+        "actual": "meningioma",
+        "predicted": "glioma",
+        "confidence": 0.6086240410804749
+    },
+    {
+        "image": "Te-me_237.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_237.jpg",
+        "actual": "meningioma",
+        "predicted": "pituitary",
+        "confidence": 0.4891553223133087
+    },
+    {
+        "image": "Te-me_24.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_24.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.4074164927005768
+    },
+    {
+        "image": "Te-me_240.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_240.jpg",
+        "actual": "meningioma",
+        "predicted": "pituitary",
+        "confidence": 0.41241082549095154
+    },
+    {
+        "image": "Te-me_241.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_241.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.5554987788200378
+    },
+    {
+        "image": "Te-me_242.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_242.jpg",
+        "actual": "meningioma",
+        "predicted": "glioma",
+        "confidence": 0.7669110298156738
+    },
+    {
+        "image": "Te-me_243.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_243.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.9605844020843506
+    },
+    {
+        "image": "Te-me_246.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_246.jpg",
+        "actual": "meningioma",
+        "predicted": "glioma",
+        "confidence": 0.7626478672027588
+    },
+    {
+        "image": "Te-me_248.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_248.jpg",
+        "actual": "meningioma",
+        "predicted": "glioma",
+        "confidence": 0.5002536773681641
+    },
+    {
+        "image": "Te-me_251.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_251.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.6067929267883301
+    },
+    {
+        "image": "Te-me_252.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_252.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.5374444127082825
+    },
+    {
+        "image": "Te-me_253.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_253.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.6979516744613647
+    },
+    {
+        "image": "Te-me_255.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_255.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.34651780128479004
+    },
+    {
+        "image": "Te-me_259.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_259.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.8704698085784912
+    },
+    {
+        "image": "Te-me_26.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_26.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.9301626682281494
+    },
+    {
+        "image": "Te-me_262.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_262.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.9150049686431885
+    },
+    {
+        "image": "Te-me_265.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_265.jpg",
+        "actual": "meningioma",
+        "predicted": "glioma",
+        "confidence": 0.8481314778327942
+    },
+    {
+        "image": "Te-me_266.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_266.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.6705723404884338
+    },
+    {
+        "image": "Te-me_267.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_267.jpg",
+        "actual": "meningioma",
+        "predicted": "pituitary",
+        "confidence": 0.4681037366390228
+    },
+    {
+        "image": "Te-me_270.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_270.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.7031453251838684
+    },
+    {
+        "image": "Te-me_272.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_272.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.63228440284729
+    },
+    {
+        "image": "Te-me_273.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_273.jpg",
+        "actual": "meningioma",
+        "predicted": "glioma",
+        "confidence": 0.42162197828292847
+    },
+    {
+        "image": "Te-me_274.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_274.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.9680474996566772
+    },
+    {
+        "image": "Te-me_275.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_275.jpg",
+        "actual": "meningioma",
+        "predicted": "glioma",
+        "confidence": 0.614220142364502
+    },
+    {
+        "image": "Te-me_276.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_276.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.6990270018577576
+    },
+    {
+        "image": "Te-me_277.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_277.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.8860398530960083
+    },
+    {
+        "image": "Te-me_279.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_279.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.3560056984424591
+    },
+    {
+        "image": "Te-me_28.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_28.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.5512189269065857
+    },
+    {
+        "image": "Te-me_280.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_280.jpg",
+        "actual": "meningioma",
+        "predicted": "pituitary",
+        "confidence": 0.6987333297729492
+    },
+    {
+        "image": "Te-me_283.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_283.jpg",
+        "actual": "meningioma",
+        "predicted": "glioma",
+        "confidence": 0.5977944135665894
+    },
+    {
+        "image": "Te-me_285.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_285.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.7675154209136963
+    },
+    {
+        "image": "Te-me_29.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_29.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.851024329662323
+    },
+    {
+        "image": "Te-me_290.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_290.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.6149353981018066
+    },
+    {
+        "image": "Te-me_291.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_291.jpg",
+        "actual": "meningioma",
+        "predicted": "glioma",
+        "confidence": 0.748410165309906
+    },
+    {
+        "image": "Te-me_292.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_292.jpg",
+        "actual": "meningioma",
+        "predicted": "glioma",
+        "confidence": 0.5796281695365906
+    },
+    {
+        "image": "Te-me_293.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_293.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.9566695690155029
+    },
+    {
+        "image": "Te-me_294.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_294.jpg",
+        "actual": "meningioma",
+        "predicted": "glioma",
+        "confidence": 0.6007968783378601
+    },
+    {
+        "image": "Te-me_295.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_295.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.4996645450592041
+    },
+    {
+        "image": "Te-me_296.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_296.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.6639708280563354
+    },
+    {
+        "image": "Te-me_3.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_3.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.7521825432777405
+    },
+    {
+        "image": "Te-me_31.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_31.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.9699666500091553
+    },
+    {
+        "image": "Te-me_32.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_32.jpg",
+        "actual": "meningioma",
+        "predicted": "glioma",
+        "confidence": 0.7534831762313843
+    },
+    {
+        "image": "Te-me_34.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_34.jpg",
+        "actual": "meningioma",
+        "predicted": "glioma",
+        "confidence": 0.6046271324157715
+    },
+    {
+        "image": "Te-me_36.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_36.jpg",
+        "actual": "meningioma",
+        "predicted": "glioma",
+        "confidence": 0.8720447421073914
+    },
+    {
+        "image": "Te-me_37.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_37.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.999884843826294
+    },
+    {
+        "image": "Te-me_38.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_38.jpg",
+        "actual": "meningioma",
+        "predicted": "glioma",
+        "confidence": 0.8988674879074097
+    },
+    {
+        "image": "Te-me_42.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_42.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.9003279209136963
+    },
+    {
+        "image": "Te-me_45.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_45.jpg",
+        "actual": "meningioma",
+        "predicted": "pituitary",
+        "confidence": 0.8589674234390259
+    },
+    {
+        "image": "Te-me_49.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_49.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.9177870750427246
+    },
+    {
+        "image": "Te-me_50.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_50.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.7103325128555298
+    },
+    {
+        "image": "Te-me_52.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_52.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.6754427552223206
+    },
+    {
+        "image": "Te-me_54.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_54.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.918938159942627
+    },
+    {
+        "image": "Te-me_56.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_56.jpg",
+        "actual": "meningioma",
+        "predicted": "pituitary",
+        "confidence": 0.4216632843017578
+    },
+    {
+        "image": "Te-me_57.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_57.jpg",
+        "actual": "meningioma",
+        "predicted": "glioma",
+        "confidence": 0.480556458234787
+    },
+    {
+        "image": "Te-me_6.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_6.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.905735194683075
+    },
+    {
+        "image": "Te-me_61.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_61.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.7505760788917542
+    },
+    {
+        "image": "Te-me_62.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_62.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.9916245341300964
+    },
+    {
+        "image": "Te-me_66.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_66.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.6027746200561523
+    },
+    {
+        "image": "Te-me_70.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_70.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.4996645450592041
+    },
+    {
+        "image": "Te-me_71.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_71.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.7635611295700073
+    },
+    {
+        "image": "Te-me_72.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_72.jpg",
+        "actual": "meningioma",
+        "predicted": "glioma",
+        "confidence": 0.8471379280090332
+    },
+    {
+        "image": "Te-me_75.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_75.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.745912492275238
+    },
+    {
+        "image": "Te-me_78.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_78.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.5221230387687683
+    },
+    {
+        "image": "Te-me_79.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_79.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.39154213666915894
+    },
+    {
+        "image": "Te-me_8.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_8.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.501512348651886
+    },
+    {
+        "image": "Te-me_81.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_81.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.9499215483665466
+    },
+    {
+        "image": "Te-me_85.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_85.jpg",
+        "actual": "meningioma",
+        "predicted": "glioma",
+        "confidence": 0.836054265499115
+    },
+    {
+        "image": "Te-me_86.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_86.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.9909648895263672
+    },
+    {
+        "image": "Te-me_88.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_88.jpg",
+        "actual": "meningioma",
+        "predicted": "pituitary",
+        "confidence": 0.4475178122520447
+    },
+    {
+        "image": "Te-me_89.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_89.jpg",
+        "actual": "meningioma",
+        "predicted": "glioma",
+        "confidence": 0.863041341304779
+    },
+    {
+        "image": "Te-me_9.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_9.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.4783436357975006
+    },
+    {
+        "image": "Te-me_90.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_90.jpg",
+        "actual": "meningioma",
+        "predicted": "pituitary",
+        "confidence": 0.425083726644516
+    },
+    {
+        "image": "Te-me_92.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_92.jpg",
+        "actual": "meningioma",
+        "predicted": "pituitary",
+        "confidence": 0.8888325691223145
+    },
+    {
+        "image": "Te-me_93.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_93.jpg",
+        "actual": "meningioma",
+        "predicted": "pituitary",
+        "confidence": 0.6780649423599243
+    },
+    {
+        "image": "Te-me_94.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_94.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.9271535277366638
+    },
+    {
+        "image": "Te-me_95.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_95.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.5216967463493347
+    },
+    {
+        "image": "Te-me_96.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_96.jpg",
+        "actual": "meningioma",
+        "predicted": "notumor",
+        "confidence": 0.7526562213897705
+    },
+    {
+        "image": "Te-me_98.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_98.jpg",
+        "actual": "meningioma",
+        "predicted": "glioma",
+        "confidence": 0.3861175775527954
+    },
+    {
+        "image": "Te-me_99.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\meningioma\\Te-me_99.jpg",
+        "actual": "meningioma",
+        "predicted": "glioma",
+        "confidence": 0.5643150210380554
+    },
+    {
+        "image": "Te-no_167.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\notumor\\Te-no_167.jpg",
+        "actual": "notumor",
+        "predicted": "meningioma",
+        "confidence": 0.8958888649940491
+    },
+    {
+        "image": "Te-no_224.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\notumor\\Te-no_224.jpg",
+        "actual": "notumor",
+        "predicted": "pituitary",
+        "confidence": 0.598584771156311
+    },
+    {
+        "image": "Te-no_302.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\notumor\\Te-no_302.jpg",
+        "actual": "notumor",
+        "predicted": "pituitary",
+        "confidence": 0.5072504281997681
+    },
+    {
+        "image": "Te-no_315.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\notumor\\Te-no_315.jpg",
+        "actual": "notumor",
+        "predicted": "meningioma",
+        "confidence": 0.34345543384552
+    },
+    {
+        "image": "Te-no_386.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\notumor\\Te-no_386.jpg",
+        "actual": "notumor",
+        "predicted": "pituitary",
+        "confidence": 0.5758493542671204
+    },
+    {
+        "image": "Te-pi_119.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\pituitary\\Te-pi_119.jpg",
+        "actual": "pituitary",
+        "predicted": "notumor",
+        "confidence": 0.45037660002708435
+    },
+    {
+        "image": "Te-pi_120.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\pituitary\\Te-pi_120.jpg",
+        "actual": "pituitary",
+        "predicted": "glioma",
+        "confidence": 0.715805172920227
+    },
+    {
+        "image": "Te-pi_132.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\pituitary\\Te-pi_132.jpg",
+        "actual": "pituitary",
+        "predicted": "meningioma",
+        "confidence": 0.7235437035560608
+    },
+    {
+        "image": "Te-pi_137.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\pituitary\\Te-pi_137.jpg",
+        "actual": "pituitary",
+        "predicted": "notumor",
+        "confidence": 0.484195351600647
+    },
+    {
+        "image": "Te-pi_152.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\pituitary\\Te-pi_152.jpg",
+        "actual": "pituitary",
+        "predicted": "notumor",
+        "confidence": 0.6384129524230957
+    },
+    {
+        "image": "Te-pi_154.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\pituitary\\Te-pi_154.jpg",
+        "actual": "pituitary",
+        "predicted": "meningioma",
+        "confidence": 0.4773644506931305
+    },
+    {
+        "image": "Te-pi_163.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\pituitary\\Te-pi_163.jpg",
+        "actual": "pituitary",
+        "predicted": "meningioma",
+        "confidence": 0.4805494248867035
+    },
+    {
+        "image": "Te-pi_171.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\pituitary\\Te-pi_171.jpg",
+        "actual": "pituitary",
+        "predicted": "meningioma",
+        "confidence": 0.447496622800827
+    },
+    {
+        "image": "Te-pi_192.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\pituitary\\Te-pi_192.jpg",
+        "actual": "pituitary",
+        "predicted": "notumor",
+        "confidence": 0.6745409965515137
+    },
+    {
+        "image": "Te-pi_194.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\pituitary\\Te-pi_194.jpg",
+        "actual": "pituitary",
+        "predicted": "notumor",
+        "confidence": 0.6301218271255493
+    },
+    {
+        "image": "Te-pi_209.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\pituitary\\Te-pi_209.jpg",
+        "actual": "pituitary",
+        "predicted": "meningioma",
+        "confidence": 0.7631560564041138
+    },
+    {
+        "image": "Te-pi_237.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\pituitary\\Te-pi_237.jpg",
+        "actual": "pituitary",
+        "predicted": "glioma",
+        "confidence": 0.5451374650001526
+    },
+    {
+        "image": "Te-pi_251.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\pituitary\\Te-pi_251.jpg",
+        "actual": "pituitary",
+        "predicted": "notumor",
+        "confidence": 0.46459075808525085
+    },
+    {
+        "image": "Te-pi_257.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\pituitary\\Te-pi_257.jpg",
+        "actual": "pituitary",
+        "predicted": "meningioma",
+        "confidence": 0.8028060793876648
+    },
+    {
+        "image": "Te-pi_27.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\pituitary\\Te-pi_27.jpg",
+        "actual": "pituitary",
+        "predicted": "meningioma",
+        "confidence": 0.5438507199287415
+    },
+    {
+        "image": "Te-pi_273.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\pituitary\\Te-pi_273.jpg",
+        "actual": "pituitary",
+        "predicted": "glioma",
+        "confidence": 0.4244545102119446
+    },
+    {
+        "image": "Te-pi_276.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\pituitary\\Te-pi_276.jpg",
+        "actual": "pituitary",
+        "predicted": "meningioma",
+        "confidence": 0.41470304131507874
+    },
+    {
+        "image": "Te-pi_289.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\pituitary\\Te-pi_289.jpg",
+        "actual": "pituitary",
+        "predicted": "glioma",
+        "confidence": 0.7577816247940063
+    },
+    {
+        "image": "Te-pi_30.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\pituitary\\Te-pi_30.jpg",
+        "actual": "pituitary",
+        "predicted": "glioma",
+        "confidence": 0.5333777070045471
+    },
+    {
+        "image": "Te-pi_311.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\pituitary\\Te-pi_311.jpg",
+        "actual": "pituitary",
+        "predicted": "notumor",
+        "confidence": 0.592548131942749
+    },
+    {
+        "image": "Te-pi_313.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\pituitary\\Te-pi_313.jpg",
+        "actual": "pituitary",
+        "predicted": "glioma",
+        "confidence": 0.8916146755218506
+    },
+    {
+        "image": "Te-pi_317.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\pituitary\\Te-pi_317.jpg",
+        "actual": "pituitary",
+        "predicted": "notumor",
+        "confidence": 0.6524034738540649
+    },
+    {
+        "image": "Te-pi_322.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\pituitary\\Te-pi_322.jpg",
+        "actual": "pituitary",
+        "predicted": "notumor",
+        "confidence": 0.5026628375053406
+    },
+    {
+        "image": "Te-pi_324.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\pituitary\\Te-pi_324.jpg",
+        "actual": "pituitary",
+        "predicted": "meningioma",
+        "confidence": 0.5156281590461731
+    },
+    {
+        "image": "Te-pi_335.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\pituitary\\Te-pi_335.jpg",
+        "actual": "pituitary",
+        "predicted": "meningioma",
+        "confidence": 0.7519184350967407
+    },
+    {
+        "image": "Te-pi_337.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\pituitary\\Te-pi_337.jpg",
+        "actual": "pituitary",
+        "predicted": "meningioma",
+        "confidence": 0.4813748300075531
+    },
+    {
+        "image": "Te-pi_340.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\pituitary\\Te-pi_340.jpg",
+        "actual": "pituitary",
+        "predicted": "meningioma",
+        "confidence": 0.3683531880378723
+    },
+    {
+        "image": "Te-pi_36.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\pituitary\\Te-pi_36.jpg",
+        "actual": "pituitary",
+        "predicted": "meningioma",
+        "confidence": 0.7463937401771545
+    },
+    {
+        "image": "Te-pi_363.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\pituitary\\Te-pi_363.jpg",
+        "actual": "pituitary",
+        "predicted": "meningioma",
+        "confidence": 0.720569372177124
+    },
+    {
+        "image": "Te-pi_368.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\pituitary\\Te-pi_368.jpg",
+        "actual": "pituitary",
+        "predicted": "meningioma",
+        "confidence": 0.5350379347801208
+    },
+    {
+        "image": "Te-pi_379.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\pituitary\\Te-pi_379.jpg",
+        "actual": "pituitary",
+        "predicted": "notumor",
+        "confidence": 0.8690215945243835
+    },
+    {
+        "image": "Te-pi_381.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\pituitary\\Te-pi_381.jpg",
+        "actual": "pituitary",
+        "predicted": "meningioma",
+        "confidence": 0.617854118347168
+    },
+    {
+        "image": "Te-pi_385.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\pituitary\\Te-pi_385.jpg",
+        "actual": "pituitary",
+        "predicted": "meningioma",
+        "confidence": 0.4913986921310425
+    },
+    {
+        "image": "Te-pi_390.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\pituitary\\Te-pi_390.jpg",
+        "actual": "pituitary",
+        "predicted": "glioma",
+        "confidence": 0.6797109246253967
+    },
+    {
+        "image": "Te-pi_395.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\pituitary\\Te-pi_395.jpg",
+        "actual": "pituitary",
+        "predicted": "glioma",
+        "confidence": 0.4238104522228241
+    },
+    {
+        "image": "Te-pi_51.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\pituitary\\Te-pi_51.jpg",
+        "actual": "pituitary",
+        "predicted": "notumor",
+        "confidence": 0.6162924766540527
+    },
+    {
+        "image": "Te-pi_52.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\pituitary\\Te-pi_52.jpg",
+        "actual": "pituitary",
+        "predicted": "meningioma",
+        "confidence": 0.5499261617660522
+    },
+    {
+        "image": "Te-pi_56.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\pituitary\\Te-pi_56.jpg",
+        "actual": "pituitary",
+        "predicted": "meningioma",
+        "confidence": 0.536580502986908
+    },
+    {
+        "image": "Te-pi_57.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\pituitary\\Te-pi_57.jpg",
+        "actual": "pituitary",
+        "predicted": "meningioma",
+        "confidence": 0.6236998438835144
+    },
+    {
+        "image": "Te-pi_7.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\pituitary\\Te-pi_7.jpg",
+        "actual": "pituitary",
+        "predicted": "meningioma",
+        "confidence": 0.5573660135269165
+    },
+    {
+        "image": "Te-pi_89.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\pituitary\\Te-pi_89.jpg",
+        "actual": "pituitary",
+        "predicted": "meningioma",
+        "confidence": 0.45018699765205383
+    },
+    {
+        "image": "Te-pi_97.jpg",
+        "image_path": "C:\\Users\\exper\\Downloads\\SKIT-IOT-2023-2027-CSE-F-92-main\\SKIT-IOT-2023-2027-CSE-F-92-main\\dataset\\Testing\\pituitary\\Te-pi_97.jpg",
+        "actual": "pituitary",
+        "predicted": "notumor",
+        "confidence": 0.6483833193778992
+    }
+]

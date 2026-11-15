@@ -1,4 +1,5 @@
-"""Brain MRI Classification: Streamlit frontend for a student CNN project."""
+
+"""Brain MRI Classification: Streamlit frontend for a student project."""
 
 import hashlib
 import io
@@ -12,6 +13,11 @@ import streamlit as st
 from PIL import Image, ImageOps, UnidentifiedImageError
 from prediction_client import predict
 
+
+# --------------------------------------------------
+# 1. PAGE CONFIGURATION
+# --------------------------------------------------
+
 st.set_page_config(
     page_title="Brain MRI Classification",
     page_icon="🧠",
@@ -22,6 +28,11 @@ endpoint = os.environ.get(
     "PREDICTION_API_URL",
     "http://127.0.0.1:5000/predict",
 ).strip()
+
+
+# --------------------------------------------------
+# 2. CUSTOM STYLING
+# --------------------------------------------------
 
 st.html("""<style>
 .stMainBlockContainer {max-width:1240px;padding:2rem 2.5rem 3rem;}
@@ -61,6 +72,11 @@ button:focus-visible,a:focus-visible {outline:3px solid #29B8C7!important;outlin
 @media(max-width:600px) {.steps {grid-template-columns:1fr;} .step {padding:12px;} .foot {flex-direction:column;} }
 </style>""")
 
+
+# --------------------------------------------------
+# 3. CLASS INFORMATION
+# --------------------------------------------------
+
 CLASS_DESCRIPTIONS = {
     "glioma": "Glioma",
     "meningioma": "Meningioma",
@@ -69,7 +85,12 @@ CLASS_DESCRIPTIONS = {
 }
 
 
+# --------------------------------------------------
+# 4. SIDEBAR
+# --------------------------------------------------
+
 with st.sidebar:
+
     st.html(
         '<p class="brand"><span>+</span> Brain MRI</p>'
         '<p class="brand-sub">MEDICAL IMAGING WORKSPACE</p>'
@@ -81,16 +102,20 @@ with st.sidebar:
     )
 
     st.divider()
+
     st.caption("PREDICTION CONNECTION")
     st.badge("API configured", icon=":material/link:", color="primary")
+
     with st.expander("Connection details"):
         st.code(endpoint, language=None)
+
     st.caption(
         "Predictions are sent to the configured Flask API. "
         "No simulated predictions are used."
     )
 
     st.divider()
+
     with st.expander("Meet the project team"):
         st.caption(
             "AI/ML · Model training\n\n"
@@ -100,8 +125,16 @@ with st.sidebar:
         )
 
 
+# --------------------------------------------------
+# 5. SESSION STATE
+# --------------------------------------------------
+
 st.session_state.setdefault("history", [])
 
+
+# --------------------------------------------------
+# 6. IMAGE VALIDATION
+# --------------------------------------------------
 
 def decode_image(data):
     """Validate and prepare an uploaded JPEG or PNG for display."""
@@ -111,11 +144,13 @@ def decode_image(data):
 
     try:
         with warnings.catch_warnings():
+
             warnings.simplefilter(
                 "error", Image.DecompressionBombWarning
             )
 
             with Image.open(io.BytesIO(data)) as original:
+
                 if original.format not in ("JPEG", "PNG"):
                     raise ValueError(
                         "Only genuine JPEG and PNG images are supported."
@@ -128,6 +163,7 @@ def decode_image(data):
                     )
 
                 original.load()
+
                 return ImageOps.exif_transpose(original).convert("RGB")
 
     except (
@@ -136,19 +172,25 @@ def decode_image(data):
         Image.DecompressionBombError,
         Image.DecompressionBombWarning,
     ) as exc:
+
         raise ValueError(
             "This image cannot be opened safely. "
             "Choose a valid JPEG or PNG file."
         ) from exc
 
 
+# --------------------------------------------------
+# 7. ANALYZE MRI PAGE
+# --------------------------------------------------
+
 if page == "Analyze MRI":
+
     st.html("""<section class="hero" aria-label="Brain MRI classification">
         <div class="eyebrow">BRAIN MRI CLASSIFICATION</div>
         <h1>A clearer view.<br>A simpler workflow.</h1>
-        <p>Upload a brain MRI and explore your CNN’s classification.<br>
+        <p>Upload a brain MRI and explore your model's classification.<br>
         From image preview to results, everything in one place.</p>
-        <span class="hero-tag">CNN RESEARCH PROJECT · FOUR-CLASS CLASSIFICATION</span>
+        <span class="hero-tag">MOBILENETV2 · FOUR-CLASS CLASSIFICATION</span>
         <svg class="hero-art" aria-hidden="true" viewBox="0 0 180 180" fill="none">
         <rect x="5" y="5" width="170" height="170" rx="32" stroke="#7AD9DE"/>
         <circle cx="90" cy="90" r="65" stroke="#7AD9DE" stroke-dasharray="4 8"/>
@@ -157,16 +199,27 @@ if page == "Analyze MRI":
         </svg></section>
         <div class="steps" aria-label="Analysis steps">
         <div class="step"><span class="step-number">01</span><div><strong>Upload an MRI</strong><small>Choose a JPEG or PNG</small></div></div>
-        <div class="step"><span class="step-number">02</span><div><strong>Review & classify</strong><small>Check the preview, then run</small></div></div>
+        <div class="step"><span class="step-number">02</span><div><strong>Review & classify</strong><small>Confirm image modality</small></div></div>
         <div class="step"><span class="step-number">03</span><div><strong>Explore the result</strong><small>View class scores and export</small></div></div>
         </div>""")
-    st.caption("Educational research prototype. Model predictions are not a medical diagnosis.")
+
+    st.caption(
+        "Educational research prototype. "
+        "Model predictions are not a medical diagnosis."
+    )
 
     left, right = st.columns([1.1, 1], gap="large")
 
+    # --------------------------------------------------
+    # LEFT PANEL: IMAGE UPLOAD
+    # --------------------------------------------------
+
     with left, st.container(border=True):
+
         st.html('<div class="panel-label">YOUR IMAGE</div>')
+
         st.subheader("Upload & review")
+
         st.caption(
             "Upload a de-identified brain MRI image. "
             "JPEG and PNG are supported; DICOM is not supported."
@@ -182,54 +235,92 @@ if page == "Analyze MRI":
         data = None
         preview = None
         digest = None
+        mri_confirmed = False
 
         if uploaded:
+
             data = uploaded.getvalue()
             digest = hashlib.sha256(data).hexdigest()
 
             try:
+
                 preview = decode_image(data)
+
                 st.image(
                     preview,
                     caption=uploaded.name,
                     width="stretch",
                 )
+
                 st.caption(
                     f"{preview.width} × {preview.height} pixels · "
                     f"{len(data) / 1024:.0f} KB"
                 )
-                st.caption(
-                    "File validation checks readability; it cannot "
-                    "confirm that an image is a brain MRI."
+
+                # IMPORTANT: File validation cannot detect MRI vs CT.
+                st.warning(
+                    "MRI images only. CT scans, X-rays and other "
+                    "image types are not supported. The application "
+                    "checks image readability but cannot automatically "
+                    "identify the medical imaging modality."
                 )
+
+                mri_confirmed = st.checkbox(
+                    "I confirm this is a brain MRI image, not a CT scan.",
+                    key=f"mri_confirmed_{digest}",
+                )
+
+                st.caption(
+                    "Please upload only genuine brain MRI images. "
+                    "Selecting this checkbox is a user confirmation, "
+                    "not automatic image verification."
+                )
+
             except ValueError as exc:
+
                 st.error(str(exc))
 
         else:
+
             st.html(
                 '<div class="empty">'
                 '<span class="empty-icon" aria-hidden="true">▧</span>'
                 '<strong>Start with a brain MRI</strong>'
                 'Your image preview will appear here.'
-                '<small>JPEG or PNG · Maximum 10 MB</small>' 
+                '<small>JPEG or PNG · Maximum 10 MB</small>'
                 "</div>"
             )
 
+        # Clear old results when a new image is selected.
         current_key = (digest, endpoint)
 
         if st.session_state.get("result_key") != current_key:
             st.session_state.pop("result", None)
 
+        # Classification requires valid image and user confirmation.
         run = st.button(
             "Classify MRI",
             icon=":material/search:",
             type="primary",
             width="stretch",
-            disabled=preview is None,
+            disabled=preview is None or not mri_confirmed,
         )
 
+        if preview is not None and not mri_confirmed:
+
+            st.info(
+                "Confirm that the uploaded image is a brain MRI "
+                "to enable classification."
+            )
+
+        # --------------------------------------------------
+        # SEND IMAGE TO FLASK API
+        # --------------------------------------------------
+
         if run:
+
             st.session_state.pop("result", None)
+
             started = time.perf_counter()
 
             mime_type = (
@@ -239,9 +330,11 @@ if page == "Analyze MRI":
             )
 
             try:
+
                 with st.spinner(
-                    "Sending image to the CNN prediction service..."
+                    "Sending image to the MobileNetV2 prediction service..."
                 ):
+
                     result = predict(
                         data,
                         uploaded.name,
@@ -257,38 +350,57 @@ if page == "Analyze MRI":
                     "created_at": datetime.now(
                         timezone.utc
                     ).isoformat(),
+                    "model": "MobileNetV2",
                 })
 
                 st.session_state["result"] = result
                 st.session_state["result_key"] = current_key
 
-                st.session_state["history"].insert(0, result.copy())
+                st.session_state["history"].insert(
+                    0, result.copy()
+                )
+
                 st.session_state["history"] = (
                     st.session_state["history"][:20]
                 )
 
             except (ValueError, RuntimeError) as exc:
+
                 st.error(str(exc))
 
+    # --------------------------------------------------
+    # RIGHT PANEL: PREDICTION RESULT
+    # --------------------------------------------------
+
     with right, st.container(border=True):
+
         st.html('<div class="panel-label">ANALYSIS OUTPUT</div>')
+
         st.subheader("Your result")
+
         result = st.session_state.get("result")
 
         if result:
+
             label = result["label"]
             confidence = result["confidence"]
 
-            st.badge("CNN model output", icon=":material/analytics:", color="primary")
+            st.badge(
+                "MobileNetV2 model output",
+                icon=":material/analytics:",
+                color="primary",
+            )
 
             st.metric(
                 "Predicted class",
                 CLASS_DESCRIPTIONS.get(label, label),
             )
+
             st.metric(
                 "Model confidence score",
                 f"{confidence:.1%}",
             )
+
             st.progress(confidence)
 
             st.caption(
@@ -297,27 +409,39 @@ if page == "Analyze MRI":
             )
 
             st.divider()
+
             st.write("**Prediction details**")
+
             st.write(f"Image: `{result['filename']}`")
+
             st.write(
                 f"Processing time: "
                 f"{result['elapsed_seconds']:.2f} seconds"
             )
 
             probabilities = result.get("class_probabilities")
+
             if isinstance(probabilities, dict):
+
                 st.write("**Scores for all model classes**")
+
                 for class_name, score in probabilities.items():
+
                     if isinstance(score, (int, float)):
+
                         st.write(
                             f"{CLASS_DESCRIPTIONS.get(class_name, class_name)}"
                             f": {score:.1%}"
                         )
-                        st.progress(max(0.0, min(1.0, float(score))))
+
+                        st.progress(
+                            max(0.0, min(1.0, float(score)))
+                        )
 
             st.info(
                 "This result is for educational demonstration only "
-                "and must not be interpreted as a diagnosis."
+                "and must not be interpreted as a diagnosis. "
+                "The model is designed for brain MRI images only."
             )
 
             st.download_button(
@@ -329,40 +453,57 @@ if page == "Analyze MRI":
             )
 
         else:
+
             st.html(
                 '<div class="empty">'
                 '<span class="empty-icon" aria-hidden="true">◎</span>'
                 '<strong>Ready for your first classification</strong>'
-                'Upload an image, review the preview, then select Classify MRI.'
-                '<small>Your predicted class and confidence will appear here.</small>' 
+                'Upload an image, confirm that it is a brain MRI, '
+                'then select Classify MRI.'
+                '<small>Your predicted class and confidence will appear here.</small>'
                 "</div>"
             )
 
         with st.expander("How the workflow works"):
+
             st.write(
-                "1. Upload and inspect a JPEG or PNG image.\n"
-                "2. Send the image to the Flask API.\n"
-                "3. Flask preprocesses the image and runs the trained CNN.\n"
-                "4. Review the predicted class and confidence score."
+                "1. Upload and inspect a JPEG or PNG brain MRI image.\n"
+                "2. Confirm that the image is a brain MRI.\n"
+                "3. Send the image to the Flask API.\n"
+                "4. Flask preprocesses the image and runs the "
+                "MobileNetV2 model.\n"
+                "5. Review the predicted class and confidence score."
             )
+
             st.caption(
+                "The application does not automatically detect "
+                "whether an uploaded image is MRI or CT. "
                 "If the API or model is unavailable, the app displays "
                 "an error rather than inventing a prediction."
             )
 
 
+# --------------------------------------------------
+# 8. SESSION HISTORY PAGE
+# --------------------------------------------------
+
 elif page == "Session history":
+
     st.html('<div class="eyebrow">YOUR WORKSPACE</div>')
+
     st.title("Session history")
+
     st.write(
         "Review the latest 20 predictions from this Streamlit session. "
         "Uploaded images are not saved to disk by this frontend."
     )
 
     if st.session_state["history"]:
+
         rows = [
             {
                 "File": item["filename"],
+                "Model": item.get("model", "CNN"),
                 "Class": item["label"],
                 "Score": f'{item["confidence"]:.1%}',
                 "Time (UTC)": item["created_at"],
@@ -370,7 +511,11 @@ elif page == "Session history":
             for item in st.session_state["history"]
         ]
 
-        st.dataframe(rows, hide_index=True, width="stretch")
+        st.dataframe(
+            rows,
+            hide_index=True,
+            width="stretch",
+        )
 
         st.download_button(
             "Export session · JSON",
@@ -380,51 +525,71 @@ elif page == "Session history":
         )
 
         if st.button("Clear session history"):
+
             st.session_state["history"] = []
+
             st.session_state.pop("result", None)
             st.session_state.pop("result_key", None)
+
             st.rerun()
 
     else:
+
         st.info(
             "No predictions yet. Analyze an MRI to start your session history."
         )
 
 
+# --------------------------------------------------
+# 9. PROJECT GUIDE PAGE
+# --------------------------------------------------
+
 else:
+
     st.html('<div class="eyebrow">ABOUT THE PROJECT</div>')
+
     st.title("From MRI image to model output.")
+
     st.write(
-        "A student project exploring CNN-based classification of "
-        "brain MRI images into four dataset classes."
+        "A student project exploring deep-learning-based "
+        "classification of brain MRI images into four dataset classes."
     )
 
     a, b, c = st.columns(3)
 
     with a, st.container(border=True):
+
         st.subheader("1. Prepare")
+
         st.write(
             "Clean the dataset, verify class labels, split the images, "
             "and check for duplicate or near-duplicate images."
         )
 
     with b, st.container(border=True):
+
         st.subheader("2. Predict")
+
         st.write(
-            "Train and evaluate the CNN. The Flask backend applies "
-            "the model's preprocessing before inference."
+            "Train and evaluate the MobileNetV2 model. "
+            "The Flask backend applies the model's preprocessing "
+            "before inference."
         )
 
     with c, st.container(border=True):
+
         st.subheader("3. Evaluate")
+
         st.write(
             "Review predictions and measured evaluation metrics. "
             "Do not treat model outputs as medical diagnoses."
         )
 
     st.subheader("Frontend demonstration checklist")
+
     st.markdown(
-        "- Upload a valid JPEG or PNG and inspect its preview.\n"
+        "- Upload a valid JPEG or PNG brain MRI and inspect its preview.\n"
+        "- Confirm that the uploaded image is a brain MRI.\n"
         "- Send the image to the running Flask API.\n"
         "- Test error handling with an invalid image.\n"
         "- Download a prediction and review session history.\n"
@@ -432,13 +597,20 @@ else:
     )
 
     st.info(
-        "The CNN's measured test accuracy is 71.84% on the current test "
-        "set. This result does not establish clinical reliability."
+        "Original CNN test accuracy: 71.84%. "
+        "MobileNetV2 test accuracy: 77.34% on the current test set. "
+        "These are experimental results and do not establish "
+        "clinical reliability."
     )
+
+
+# --------------------------------------------------
+# 10. FOOTER
+# --------------------------------------------------
 
 st.html(
     '<div class="foot">'
     '<span><strong>Brain MRI</strong> · Medical imaging workspace</span>'
-    '<span>CNN research project · Educational use only</span>' 
+    '<span>MobileNetV2 research project · Educational use only</span>'
     "</div>"
 )

@@ -14,7 +14,7 @@ app = Flask(__name__)
 app.config["MAX_CONTENT_LENGTH"] = 10 * 1024 * 1024
 
 PROJECT_DIR = Path(__file__).resolve().parent
-MODEL_PATH = PROJECT_DIR / "models" / "brain_mri_cnn.keras"
+MODEL_PATH = PROJECT_DIR / "models" / "brain_mri_mobilenet.keras"
 CLASS_NAMES_PATH = PROJECT_DIR / "results" / "class_names.json"
 
 IMAGE_SIZE = (224, 224)
